@@ -21,13 +21,13 @@ export const greetings: GreetingsType = {
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'kanbei0605',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
+  url: 'https://ram-maharjan.vercel.app/',
   linkedin: 'https://www.linkedin.com/in/ram-maharjan-1669391/',
   github: 'https://github.com/kanbei0605',
   twitter: 'https://twitter.com/maharjan_r24397',
@@ -238,17 +238,17 @@ export const experience: ExperienceType[] = [
   },
   {
     role: 'CTO',
-    company: 'Webaverse',
-    companyLogo: '/img/icons/common/webaverse.jpg',
+    company: 'Cropper Finance',
+    companyLogo: '/img/icons/common/cropper.jpg',
     date: 'Jan 2022 – Mar 2022',
     desc: 'As CTO at INFLOW led our change from a social token platform to a decentralized exchange and DAO community overlay. We provide token gated access to community DAOs and portfolio management, live price data and token swaps via integration with DEXs and aggregated yielding solutions.',
   },
   {
     role: 'Full Stack Developer',
-    company: 'Webaverse',
-    companyLogo: '/img/icons/common/webaverse.jpg',
+    company: 'Cropper Finance',
+    companyLogo: '/img/icons/common/cropper.jpg',
     date: 'Sept 2021 - Oct 2021',
-    desc: 'Worked as full-stack web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website, threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
+    desc: 'Worked as full-stack web developer to create a website in which I integrated the smart contract to process the game and show Real Time processing on Website, threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
     descBullets: [
       "Built the cross chain social token platform built from the ground up and managed the teams on both the flow and Ethereum blockchains. The platform employs innovative tokenomics and unique smart contracts to each blockchain with a deployed bonding curve acting as an automated market maker and stored liquidity pool",
       "Built using Typescript, Node.js, React, Redux, PostgreSQL",
@@ -279,23 +279,23 @@ export const experience: ExperienceType[] = [
 export const projects: ProjectType[] = [
   {
     name: 'iPlayMore',
-    desc: 'NFT Market Place for the metaverse game',
+    desc: 'With 16 unique characters to choose from, our core gameplay loop revolves around a streamlined combat system as players drop into any of our 14 outdoor arenas ...',
     link: 'https://iplaymore.com',
   },
   {
-    name: 'AtlasMart',
-    desc: "With Atlas Mart, it's easy to find the products with the best price and ship them straight to your door.",
-    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
+    name: 'Cropper Finance',
+    desc: 'Decentralized Ecosystem that Empowers Projects & Maximizes Yield to move Defi forward on Solana. Swap, Yield Farming, Staking, IDO Launchpad & more.',
+    link: 'https://cropper.finance'
   },
   {
-    name: 'Technota (Forum)',
-    desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/1hanzla100/django-react-forum',
+    name: 'ThunderPOKT',
+    desc: 'ThunderPOKT (tPOKT) is a state of the art system that gives instant liquidity to staked POKT.',
+    link: 'https://thunderpokt.fi',
   },
   {
-    name: 'Shopaza (Ecommerce)',
-    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/1hanzla100/Django-ecommerce',
+    name: 'Yakki',
+    desc: 'Yakki is an online platform to search, compare and book unique outdoor experiences with certified professionals.',
+    link: 'https://yakki.net',
   },
 ];
 

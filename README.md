@@ -111,9 +111,9 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 👤 **Ram Maharjan**
 
-- Website: https://hanzla.netlify.app
-- Github: [@1hanzla100](https://github.com/1hanzla100)
-- LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+- Website: https://ram-maharjan.vercel.app/
+- Github: [@kanbei0605](https://github.com/kanbei0605)
+- LinkedIn: [@Ram](https://www.linkedin.com/in/ram-maharjan-1669391/)
 
 ## Show your support
 
