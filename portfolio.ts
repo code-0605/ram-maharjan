@@ -321,7 +321,7 @@ export const seoData: SEODataType = {
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Ram Maharjan',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
+  image: '/img/avatar.jpg',
   url: 'https://developer-portfolio-1hanzla100.vercel.app',
   keywords: [
     'Ram',
