@@ -22708,4 +22708,9 @@ td.rdtYear:hover {
 	width: 1%;
 }
 
+.portfolio-img {
+	width: 100%;
+	height: 220px;
+}
+
 /*# sourceMappingURL=argon-design-system-react.css.map */

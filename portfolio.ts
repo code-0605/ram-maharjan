@@ -279,23 +279,39 @@ export const experience: ExperienceType[] = [
 export const projects: ProjectType[] = [
   {
     name: 'iPlayMore',
+    imgURL: "/img/iplaymore.png",
     desc: 'With 16 unique characters to choose from, our core gameplay loop revolves around a streamlined combat system as players drop into any of our 14 outdoor arenas ...',
     link: 'https://iplaymore.com',
   },
   {
     name: 'Cropper Finance',
+    imgURL: "/img/cropper.png",
     desc: 'Decentralized Ecosystem that Empowers Projects & Maximizes Yield to move Defi forward on Solana. Swap, Yield Farming, Staking, IDO Launchpad & more.',
     link: 'https://cropper.finance'
   },
   {
     name: 'ThunderPOKT',
+    imgURL: "/img/thunderpokt.png",
     desc: 'ThunderPOKT (tPOKT) is a state of the art system that gives instant liquidity to staked POKT.',
     link: 'https://thunderpokt.fi',
   },
   {
     name: 'Yakki',
+    imgURL: "/img/yakki.png",
     desc: 'Yakki is an online platform to search, compare and book unique outdoor experiences with certified professionals.',
     link: 'https://yakki.net',
+  },
+  {
+    name: 'Kiraverse',
+    imgURL: "/img/kiraverse.png",
+    desc: 'KIRAVΞRSΞ is an online multiplayer game created in Unreal Engine 5 for gamers across the globe to play, compete, and earn achievements to unlock or rent characters, skins, weapons, and more!',
+    link: 'https://kiraverse.game',
+  },
+  {
+    name: 'Sevendays',
+    imgURL: "/img/sevendays.png",
+    desc: 'WE STAGE INCOMPARABLE EVENTS. Imaginative, stylish and with a penchant for perfection, that is SevenDays credo. Because it is the details that make an event an unforgettable moment. ',
+    link: 'https://sevendays.de',
   },
 ];
 
