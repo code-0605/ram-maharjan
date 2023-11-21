@@ -241,7 +241,7 @@ export const experience: ExperienceType[] = [
     company: 'Cropper Finance',
     companyLogo: '/img/icons/common/cropper.jpg',
     date: 'Jan 2022 – Mar 2022',
-    desc: 'As CTO at INFLOW led our change from a social token platform to a decentralized exchange and DAO community overlay. We provide token gated access to community DAOs and portfolio management, live price data and token swaps via integration with DEXs and aggregated yielding solutions.',
+    desc: 'As CTO at Cropper Finance our change from a social token platform to a decentralized exchange and DAO community overlay. We provide token gated access to community DAOs and portfolio management, live price data and token swaps via integration with DEXs and aggregated yielding solutions.',
   },
   {
     role: 'Full Stack Developer',
@@ -251,7 +251,7 @@ export const experience: ExperienceType[] = [
     desc: 'Worked as full-stack web developer to create a website in which I integrated the smart contract to process the game and show Real Time processing on Website, threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
     descBullets: [
       "Built the cross chain social token platform built from the ground up and managed the teams on both the flow and Ethereum blockchains. The platform employs innovative tokenomics and unique smart contracts to each blockchain with a deployed bonding curve acting as an automated market maker and stored liquidity pool",
-      "Built using Typescript, Node.js, React, Redux, PostgreSQL",
+      "Built the web pages using Typescript, Node.js, React, Redux, PostgreSQL",
       "Worked with app developers to implement a robust search functionality in React for an eCommerce site with 5K+ products, resulting in increased page views",
       "Optimized CSS, JS files, and redundant images, leading to a 30% reduction in assets loading time for a website",
       "Used React JS to create more responsive webpages, which can be compatible with all the browsers and compatible with the different devices",
