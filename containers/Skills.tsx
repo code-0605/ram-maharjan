@@ -8,12 +8,12 @@ import { skillsSection } from '../portfolio';
 const Skills = () => {
   return (
     skillsSection && (
-      <Container className="text-center my-5 section section-lg">
+      <Container className="text-center my-4">
         <h1 className="h1">{skillsSection.title}</h1>
         <p className="lead">{skillsSection.subTitle}</p>
         {skillsSection.data.map((section, index) => {
           return (
-            <Row className="my-5" key={index}>
+            <Row className="my-3" key={index}>
               <Col lg="6" className="order-2 order-lg-1">
                 <Fade left duration={2000}>
                   <DisplayLottie animationPath={section.lottieAnimationFile} />
@@ -48,7 +48,7 @@ const Skills = () => {
                   </div>
                   <div>
                     {section.skills.map((skill, i) => {
-                      return <p key={i}>{skill}</p>;
+                      return <p className="mb-2 text-left text-2xl" key={i}>{skill}</p>;
                     })}
                   </div>
                 </Fade>
