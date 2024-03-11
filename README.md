@@ -97,7 +97,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 👤 **Ram Maharjan**
 
 - Website: https://ram-maharjan.vercel.app/
-- Github: [@kanbei0605](https://github.com/kanbei0605)
+- Github: [@code-0605](https://github.com/code-0605)
 - LinkedIn: [@Ram](https://www.linkedin.com/in/ram-maharjan-1669391/)
 
 ## Show your support

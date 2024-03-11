@@ -21,7 +21,7 @@ export const greetings: GreetingsType = {
 };
 
 export const openSource = {
-  githubUserName: 'kanbei0605',
+  githubUserName: 'code-0605',
 };
 
 export const contact = {};
@@ -29,7 +29,7 @@ export const contact = {};
 export const socialLinks: SocialLinksType = {
   url: 'https://ram-maharjan.vercel.app/',
   linkedin: 'https://www.linkedin.com/in/ram-maharjan-1669391/',
-  github: 'https://github.com/kanbei0605',
+  github: 'https://github.com/code-0605',
   twitter: 'https://twitter.com/maharjan_r24397',
 };
 
