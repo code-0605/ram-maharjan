@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
   "main": "index.js",
-  "repository": "https://github.com/kanbei0605/ram-maharjan.git",
+  "repository": "https://github.com/code-0605/ram-maharjan.git",
   "author": "Ram Maharjan",
   "license": "MIT",
   "scripts": {
