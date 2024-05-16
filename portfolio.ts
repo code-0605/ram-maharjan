@@ -226,7 +226,7 @@ export const experience: ExperienceType[] = [
     role: 'Senior Front End Developer',
     company: 'iPlayMore',
     companyLogo: '/img/icons/common/iplaymore.jpg',
-    date: 'Apr 2022 – Jun 2022',
+    date: 'Jun 2022 – Dec 2023',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using React, Node.js, Tailwind CSS, Chart.js and some other libraries.',
     descBullets: [
       "Worked on an Agile (Scrum) Development Team to develop and maintain the NFT market place",
@@ -240,14 +240,14 @@ export const experience: ExperienceType[] = [
     role: 'CTO',
     company: 'Cropper Finance',
     companyLogo: '/img/icons/common/cropper.jpg',
-    date: 'Jan 2022 – Mar 2022',
+    date: 'May 2020 – June 2022',
     desc: 'As CTO at Cropper Finance our change from a social token platform to a decentralized exchange and DAO community overlay. We provide token gated access to community DAOs and portfolio management, live price data and token swaps via integration with DEXs and aggregated yielding solutions.',
   },
   {
     role: 'Full Stack Developer',
     company: 'Cropper Finance',
     companyLogo: '/img/icons/common/cropper.jpg',
-    date: 'Sept 2021 - Oct 2021',
+    date: 'Jun 2019 - May 2020',
     desc: 'Worked as full-stack web developer to create a website in which I integrated the smart contract to process the game and show Real Time processing on Website, threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
     descBullets: [
       "Built the cross chain social token platform built from the ground up and managed the teams on both the flow and Ethereum blockchains. The platform employs innovative tokenomics and unique smart contracts to each blockchain with a deployed bonding curve acting as an automated market maker and stored liquidity pool",
